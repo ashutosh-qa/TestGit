@@ -7,8 +7,8 @@ public class AddNumbers
 
 		System.out.println("Java training started");
 		
-	int a=2; int b=3;
-	int Sum=a+b;
+	int a=2; int b=3; int c=5;
+	int Sum=a+b+c;
 	
 	System.out.println("Sum is "+Sum);
 		
