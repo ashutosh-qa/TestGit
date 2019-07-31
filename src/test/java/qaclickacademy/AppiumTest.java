@@ -10,10 +10,21 @@ public class AppiumTest {
 		System.out.println("NativeAppAndroid");
 	}
 	
+	
+	@Test
+	public void NativeAppAndroid1()
+	{
+		System.out.println("NativeAppAndroid123");
+	}
+	
+	
+	
 	@Test
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("Android");
+		System.out.println("Windows App");
 	}
 
 }
