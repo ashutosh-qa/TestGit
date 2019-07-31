@@ -20,7 +20,15 @@ public class SeleniumTest {
 	@Test
 	public void elementsUI1()
 	{
-		System.out.println("elementsUI123");
+		System.out.println("elementsUI123");			
 	}
+	
+
+	@Test
+	public void elementsUI2()
+	{
+		System.out.println("elementsUI123345");
+	}
+
 
 }
